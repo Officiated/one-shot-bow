@@ -1,0 +1,5 @@
+name: OneShotBow
+version: '${project.version}'
+main: com.towering.main.Main
+api-version: 1.8.8
+authors: [ Towering ]
